@@ -1,0 +1,18 @@
+OP4ctf_Omen
+By Andrew Weldon
+aweldon@planethalflife.com
+This version uses the ctf_powerups
+
+** Update by Det Pak ** OP4 ExtremE Combat Server
+Added:
+357 Magnum 
+Rocket Launcher(RPG)
+Hand Grenades
+Satchel Charges
+Laser Tripmines
+M249 Automatic Weapon (SAW)
+Displacer Cannon
+
+-Additional- 
+HEV Batteries
+Med Kits 
